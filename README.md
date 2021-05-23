@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayurdeshmukh2104
+- 👋 Hi, I’m @mayurdeshmukh
 - 👀 I’m interested in ... building softwares and apps...
 - 🌱 I’m currently learning ... Big Data, Java, Python
 - 💞️ I’m looking to collaborate on ... Anything
